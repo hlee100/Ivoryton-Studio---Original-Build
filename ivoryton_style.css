@@ -1,62 +1,64 @@
 @charset "utf-8";
+
 a:active {
-	color: #FF2400;
+    color: #FF2400;
 }
 
 a:visited {
-	color: #FF261D;
+    color: #FF261D;
 }
 
 a:link {
-	color: #FF261D;
+    color: #FF261D;
 }
 
-
 .list_headings {
-	font-family: Vijaya;
-	font-size: 12px;
-	font-style: normal;
-	font-weight: bold;
-	color: #F00;
+    font-family: Vijaya;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: bold;
+    color: #F00;
 }
 
 body {
-	background-color: #333333;
-	font-family: Vijaya;
-	font-size: 8ex;
-	font-style: normal;
-	font-weight: bold;
-	color: #F00;
-	text-align: center;
+    background-color: #333333;
+    font-family: Vijaya;
+    font-size: 8ex;
+    font-style: normal;
+    font-weight: bold;
+    color: #F00;
+    text-align: center;
 }
+
 h1 {
-	font-family: "Baskerville Old Face";
-	font-size: 36px;
-	color: #FF2400;
+    font-family: "Baskerville Old Face";
+    font-size: 36px;
+    color: #FF2400;
 }
+
 h3 {
-	font-family: "Baskerville Old Face";
-	font-size: 18px;
-	color: #F00;
+    font-family: "Baskerville Old Face";
+    font-size: 18px;
+    color: #F00;
 }
 
 h2 {
-	font-size: 16px;
-	color: #FF0000;
-	font-family: "Baskerville Old Face";
-}
-p {
-	font-family: "Baskerville Old Face";
-	font-size: 40pt;
-	color: #FF2400;
-	font-style: italic;
+    font-size: 16px;
+    color: #FF0000;
+    font-family: "Baskerville Old Face";
 }
 
+p {
+    font-family: "Baskerville Old Face";
+    font-size: 40pt;
+    color: #FF2400;
+    font-style: italic;
+}
 
 .img_right_float {
-	float: right;
+    float: right;
 }
 
 .img_left_float {
-	float: left;
+    float: left;
 }
